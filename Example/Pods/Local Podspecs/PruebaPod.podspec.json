@@ -1,0 +1,22 @@
+{
+  "name": "PruebaPod",
+  "version": "0.1.0",
+  "summary": "A short description of PruebaPod.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Manu/PruebaPod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Manu": "manu.stier@me.com"
+  },
+  "source": {
+    "git": "https://github.com/Manu/PruebaPod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "PruebaPod/Classes/**/*"
+}

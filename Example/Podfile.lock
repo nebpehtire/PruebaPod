@@ -1,0 +1,16 @@
+PODS:
+  - PruebaPod (0.1.0)
+
+DEPENDENCIES:
+  - PruebaPod (from `../`)
+
+EXTERNAL SOURCES:
+  PruebaPod:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PruebaPod: dc0d9f914365c566e754e922b4f22d5f14bce3ed
+
+PODFILE CHECKSUM: 2e373629a4b9ee54152079aac9bb7d304874a73d
+
+COCOAPODS: 1.5.3
